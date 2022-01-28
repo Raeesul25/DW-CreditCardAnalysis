@@ -1,0 +1,78 @@
+Dist_ID,City,State,Region
+1,New York City,New York,Northeast
+2,Jacksonville,Florida,South
+3,Columbus,Ohio,Midwest
+4,Charlotte,North Carolina,South
+5,Indianapolis,Indiana,Northeast
+6,Seattle,Washington,West
+7,Denver,Colorado,West
+8,Washington,District of Columbia,South
+9,Boston,Massachusetts,Northeast
+10,Detroit,Michigan,Midwest
+11,Nashville,Tennessee,South
+12,Portland,Oregon,West
+13,Oklahoma City,Oklahoma,South
+14,Las Vegas,Nevada,West
+15,Louisville,Kentucky,South
+16,Baltimore,Maryland,South
+17,Milwaukee,Wisconsin,Midwest
+18,Albuquerque,New Mexico,West
+19,Atlanta,Georgia,South
+20,Kansas City,Missouri,Midwest
+21,Omaha,Nebraska,Midwest
+22,Virginia Beach,Virginia,South
+23,Minneapolis,Minnesota,Midwest
+24,New Orleans,Louisiana,South
+25,Wichita,Kansas,Midwest
+26,Honolulu,Hawaii,West
+27,San Antonio,Texas,South
+28,Anchorage,Alaska,West
+29,Newark,New Jersey,Northeast
+30,Boise,Idaho,West
+31,Des Moines,Iowa,Midwest
+32,Birmingham,Alabama,South
+33,Salt Lake City,Utah,West
+34,Little Rock,Arkansas,South
+35,Sioux Falls,South Dakota,Midwest
+36,Providence,Rhode Island,Northeast
+37,Jackson,Mississippi,South
+38,Bridgeport,Connecticut,Northeast
+39,Charleston,South Carolina,South
+40,Fargo,North Dakota,Midwest
+41,Manchester,New Hampshire,Northeast
+42,Billings,Montana,West
+43,Wilmington,Delaware,South
+44,Portland,Maine,Northeast
+45,Cheyenne,Wyoming,West
+46,San Diego,California,West
+47,Charleston,West Virginia,South
+48,Worcester,Massachusetts,Northeast
+49,Burlington,Vermont,Northeast
+50,Buffalo,New York,Northeast
+51,Springfield,Massachusetts,Northeast
+52,New Haven,Connecticut,Northeast
+53,Hartford,Connecticut,Northeast
+54,Houston,Texas,South
+55,Lowell,Massachusetts,Northeast
+56,Cambridge,Massachusetts,Northeast
+57,New Bedford,Massachusetts,Northeast
+58,Brockton,Massachusetts,Northeast
+59,Quincy,Massachusetts,Northeast
+60,Lynn,Massachusetts,Northeast
+61,Fall River,Massachusetts,Northeast
+62,Nashua,New Hampshire,Northeast
+63,Norwalk,Connecticut,Northeast
+64,Phoenix,Arizona,West
+65,Newton,Massachusetts,Northeast
+66,Warwick,Rhode Island,Northeast
+67,Danbury,Connecticut,Northeast
+68,Cranston,Rhode Island,Northeast
+69,Lawrence,Massachusetts,Northeast
+70,Los Angeles,California,West
+71,Somerville,Massachusetts,Northeast
+72,Philadelphia,Pennsylvania,Northeast
+73,New Britain,Connecticut,Northeast
+74,Chicago,Illinois,Northeast
+75,Rochester,New York,Northeast
+76,Yonkers,New York,Northeast
+77,Syracuse,New York,Northeast
